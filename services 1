@@ -1,0 +1,109 @@
+!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services</title>
+    <style>
+        body {
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-image: url(C:\Users\SADINI\Desktop\Jewel Aura\img\service 1.jpeg);
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 100vh;
+            color: #111111; /* Set text color to white for better visibility on the background */
+        }
+
+        .headline {
+            text-align: center;
+            margin-top: 100px;
+            color: #0e0e0e; /* White text color for the headline */
+        }
+
+        .headline h1 {
+            font-size: 48px;
+            font-weight: bold;
+        }
+
+        .headline p {
+            font-size: 24px;
+        }
+
+        .services {
+            text-align: center;
+            padding: 50px;
+            column-count: 2; /* Set the number of columns */
+            column-gap: 40px; /* Adjust the gap between columns */
+        }
+
+        .service-card {
+            background-color: rgba(244, 244, 7, 0.192); /* Semi-transparent white background */
+            padding: 20px;
+            margin: 20px;
+            border-radius: 10px;
+            text-align: left; /* Align text to the left */
+        }
+
+        .service-card img {
+            width: 100%;
+            border-radius: 30px;
+            margin-bottom: 20px;
+        }
+
+        .service-card h3, .service-card h4, .service-card h5 {
+            color: #0a0a0a; /* Set text color for service subtitles */
+        }
+
+        .service-card p {
+            font-size: 16px;
+            color: #121111; /* Set text color for service descriptions */
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="headline">
+        <h1>Welcome to Our Services</h1>
+        <br><p>Discover Amazing Content and Services</p></br>
+    </div>
+
+    <div class="services">
+        <div class="service-card">
+            
+            <h3>Best Production</h3>
+           <p> Our commitment to excellence is reflected in our jewelry production service. We take pride in creating high-quality, exquisite pieces that showcase craftsmanship and artistic design. From traditional to contemporary styles, our production team ensures that each jewelry item meets the highest standards of quality and elegance.</p>
+        </div>
+
+        <div class="service-card">
+            
+            <h3>Best Deals</h3>
+            <p>Discover unbeatable deals on a wide range of jewelry items through our "Best Deals" service. We believe in making luxury accessible, and our special deals ensure that you get the best value for your investment. From limited-time discounts to seasonal promotions, there's always an opportunity to find the perfect piece at an incredible price.</p>
+        </div>
+
+        <div class="service-card">
+            <h3>Gold buy </h3>
+           <p>We purchase gold in various forms, including jewelry, coins, and bullion. Our experts provide transparent and fair evaluations based on the current market rates. Customers can bring in their gold items for assessment and receive competitive offers.</p>
+        </div>
+
+        <div class="service-card">
+            
+            <h3>Gold Selling</h3>
+           <p> Customers can explore our collection of gold jewelry available for purchase. We offer a diverse range of designs and styles to suit different preferences. Our gold selling service ensures customers receive high-quality and well-crafted pieces.</p>
+        </div>
+
+        <div class="service-card">
+           
+            <h3>Workshops</h3>
+            <p>Immerse yourself in the world of jewelry through our workshops designed for enthusiasts, hobbyists, and those looking to gain insights into the art of jewelry making. Led by experienced professionals, our workshops cover various aspects of jewelry design, crafting, and gemology.</p>
+        </div>
+    </div>
+
+</body>
+
+</html>

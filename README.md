@@ -1,4 +1,4 @@
-# First Year Web Project
+#  Web Project
 
 This repository contains a first year web development project built with HTML, CSS, and JavaScript.
 
